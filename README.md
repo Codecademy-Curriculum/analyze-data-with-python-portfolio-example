@@ -15,7 +15,7 @@ Here are some key findings from the analysis:
 
 - The Great Smoky Mountains National Park has the most endangered species (9) in the dataset but the lowest percentage (20.2%) of protected species within their park. 
 - Statistical tests indicate that there is not a consistent association favoring Mammals for protection status
-- We found that 30.5% of native species are protected while only 17.6% of non-native are protected. Statistical tests further showed that this difference was significant suggesting that there is a strong association that favors native species.
+- We found that 30.5% of native species are protected while only 17.6% of non-native are protected. Statistical tests further showed that this difference indicates a statistical association that favors native species.
 - We found that the Rainbow Trout (scientifically known as the Oncorhynchus Mykiss) is a non-native fish in Yellowstone National Park that is abundant but is threatened.
 
 ## Data
