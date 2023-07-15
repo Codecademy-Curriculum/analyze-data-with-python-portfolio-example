@@ -1,5 +1,7 @@
 # Analyzing Endangered Species in US National Parks - Data Science Portfolio Project Example
 
+<img src="imgs/acadia_np.jpg">
+
 ## Project Overview
 This project explores the conservation of species in the top 10 most visited US National Parks. We'll use Python to analyze the dataset, and use the pandas and scipy libraries to answer the following questions:
 
